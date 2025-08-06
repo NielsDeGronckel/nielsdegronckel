@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": "*",
+        "twig/twig": "^3.21",
+        "slim/twig-view": "^3.4",
+        "timber/timber": "^2.3",
+        "twig/extra-bundle": "^3.21",
+        "twig/string-extra": "^3.21",
+        "symfony/yaml": "^7.3",
+        "symfony/process": "^7.3",
+        "symfony/mime": "^7.3",
+        "symfony/translation": "^7.3"
+    },
+    "require-dev": {
+        "symfony/symfony": "^7.3"
+    }
+}
